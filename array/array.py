@@ -1,0 +1,1 @@
+class Array(list): pass
