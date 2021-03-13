@@ -7,7 +7,7 @@ __all__ = [
 
 
 class LifoQueue(Queue):
-    """Variant of Queue that retrieves most recently added entries first."""
+    """Variant of Queue that retrieves most recently added entries first, i.e. a Stack"""
 
     def _qsize(self):
         return len(self.queue)
