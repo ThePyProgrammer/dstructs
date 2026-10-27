@@ -1,12 +1,12 @@
 [project]
 name = "dstructs"
 version = "0.1.0"
-description = "Add your description here"
+description = "Data Structure Library"
 readme = "README.md"
 authors = [
     { name = "Prannaya Gupta", email = "prannayagupta@gmail.com" }
 ]
-requires-python = ">=3.15"
+requires-python = ">=3.8"
 dependencies = []
 
 [project.scripts]
